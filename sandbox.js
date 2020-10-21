@@ -10,3 +10,9 @@ const myBio = {
 }
 
 console.log(myBio)
+
+/**
+ * Table 
+ * Form 
+ * Template Find One data (Detail)
+ */
